@@ -1,0 +1,1 @@
+add the datasets within the folder monday and run week07_wed.ipynb
